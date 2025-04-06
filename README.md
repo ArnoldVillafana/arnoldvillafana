@@ -24,7 +24,7 @@ Now transitioning into **Data Science**, I'm integrating my sales background wit
 
 ### 🚀 Tools & Technologies
 
-- 📊 Power BI (ertified)
+- 📊 Power BI (certified)
 - 🧮 SQL (UC Davis & Coursera - in progress)
 - 🧠 Advanced Excel (certified)
 - 🛠 Salesforce, HubSpot
